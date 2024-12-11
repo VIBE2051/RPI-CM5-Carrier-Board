@@ -5,7 +5,7 @@
 	(uuid "a7d728a2-9639-442c-9b0f-3544c5006fbb")
 	(paper "A4")
 	(title_block
-		(title "Compute Module 5 IO Board - GPIO - Ethernet")
+		(title "Compute Module 5 IO Board")
 		(rev "1")
 		(company "Copyright © 2024 Raspberry Pi Ltd.")
 		(comment 1 "www.raspberrypi.com")
