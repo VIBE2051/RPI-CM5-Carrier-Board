@@ -72,10 +72,3 @@ The PCB exposes the GPIOs and other interfaces from the CM5 and Cube Module thro
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request for any improvements or fixes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-**Contact**: For support or inquiries, please contact [your email/organization].
-
