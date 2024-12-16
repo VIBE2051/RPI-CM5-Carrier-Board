@@ -827,6 +827,10 @@
     [
       "00000000-0000-0000-0000-00005ed4bb5b",
       "PCIe-M2"
+    ],
+    [
+      "bc2e6825-df21-4d49-9a07-e8fd7fa21ce5",
+      "Cube_PSM_GPIO"
     ]
   ],
   "text_variables": {}

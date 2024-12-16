@@ -14296,4 +14296,42 @@
 			)
 		)
 	)
+	(sheet
+		(at 214.63 59.69)
+		(size 48.26 58.42)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bc2e6825-df21-4d49-9a07-e8fd7fa21ce5")
+		(property "Sheetname" "Cube_PSM_GPIO"
+			(at 214.63 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cube_psm_gpio.kicad_sch"
+			(at 214.63 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CM5IO"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005cff706a"
+					(page "5")
+				)
+			)
+		)
+	)
 )
