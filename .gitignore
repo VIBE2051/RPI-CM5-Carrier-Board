@@ -22,4 +22,4 @@ fp-info-cache
 *.ses
 
 # Backup directories
-*-backups/
+*CM5IO-backups/
