@@ -7978,7 +7978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_MicroClasp_55932-0630_1x06_P2.00mm_Vertical"
 			(at 172.72 113.03 0)
 			(effects
 				(font
@@ -8373,7 +8373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_MicroClasp_55932-0630_1x06_P2.00mm_Vertical"
 			(at 227.33 113.03 0)
 			(effects
 				(font
